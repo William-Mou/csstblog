@@ -1,0 +1,4 @@
+baseURL = "http://www.mou.tw/csstblog"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
